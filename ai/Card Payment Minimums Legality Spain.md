@@ -1,3 +1,5 @@
+-# just so you know, this will be something ill check out
+
 Card Payment Minimums Legality Spain
 ====================================
 
